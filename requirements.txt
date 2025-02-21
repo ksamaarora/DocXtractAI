@@ -1,0 +1,6 @@
+ollama
+pymupdf
+pdfplumber
+pillow
+ipython
+jupyter
