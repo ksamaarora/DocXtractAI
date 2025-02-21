@@ -10,6 +10,12 @@ Since many of these high-performance models require **paid API access**, I have 
 
 ---
 
+All Jupyter Notebook (`.ipynb`) files in this repository contain **the same code**, with only the **document path changed** for extracting different PDFs.  
+
+To ensure **easier access and structured organization**, I have uploaded separate notebooks for each document instead of modifying a single file repeatedly.  
+
+---
+
 ## **Accessing Output HTML Files**  
 The extracted data is also saved as **HTML files** for easy visualization. These files can be accessed in the `output_html_files` folder:  
 
